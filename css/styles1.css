@@ -1,0 +1,30 @@
+.practice{
+    font-size: 20px;
+}
+
+.table, th, td{
+    border: solid 1px #080808;;
+}
+
+ul{
+    font-style:oblique;
+}
+
+h1{
+    color:black;
+    font-size: italic;
+}
+
+h2{
+    color: red;
+}
+
+body{
+    background-color: yellow;
+}
+
+th{
+    background-color:pink;
+}
+
+td{background-color:white;}

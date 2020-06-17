@@ -1,0 +1,32 @@
+.delete{
+    font-size: 20px;
+}
+
+.delete2{
+    font-size: 20px;
+}
+
+table, th, td{
+    border: solid 1px;
+}
+
+body{
+    background-color:lightgray;
+}
+
+th{
+    background-color:pink;
+}
+
+td{
+    background-color:white;
+}
+
+h1{
+    background-color:skyblue;
+    width: 50%;
+}
+
+h1{
+    font-style:italic;
+}

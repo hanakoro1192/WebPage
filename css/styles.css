@@ -1,0 +1,49 @@
+.custer{
+    font-size: 20px;
+}
+
+.custer2{
+    font-size: 4px;
+}
+
+table,th, td{
+    border: solid 1px;
+}
+
+th{
+    background-color:pink;
+}
+
+td{
+    background-color:white;
+}
+
+ul{
+    font-style:oblique;
+}
+
+h1{
+    background-color:skyblue;
+    width: 50%;
+}
+
+h1{
+    font-style:italic;
+}
+
+.parent {
+    width: 100%;
+    display: flex;
+   }
+   .child {
+    width: 100px;
+   }
+
+.name{
+    width: 100px;
+    display: flex;
+}
+
+.child{
+    width: 100px;
+}

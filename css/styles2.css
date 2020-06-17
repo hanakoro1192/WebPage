@@ -1,0 +1,43 @@
+table,th,td{
+    border: solid 1px #080808;
+}
+
+.custom{
+    font-size: 40px;
+}
+
+.costom2{
+    font-size: 40px;
+}
+
+h1{
+    color : red ;
+}
+
+h2{
+    color : blue ;
+}
+
+body{
+    background-color:skyblue;
+}
+
+th{
+    background-color:pink;
+}
+
+td{
+    background-color:white;
+}
+
+ul{
+    font-style:oblique;
+}
+
+h1{
+    background-color:yellowS;
+}
+
+h1{
+    font-style:italic;
+}
